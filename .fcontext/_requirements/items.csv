@@ -1,0 +1,2 @@
+id,type,title,status,priority,parent_id,assignee,tags,author,source_file,created_at,updated_at
+REQ-001,requirement,Портирование Lofimusic на Flutter,in_progress,P2,,,,,,2026-05-26T13:35:36Z,2026-05-26T13:35:58Z
