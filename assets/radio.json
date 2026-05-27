@@ -1,354 +1,223 @@
 [
   {
-    "Name": "Aviencloud - Beach girl",
-    "ID": "uMaWlgkm6rk",
-    "Slug": "aviencloud",
-    "Description": "",
+    "Name": "Everything Fades To Blue",
+    "ID": "PfgS405CdXk",
+    "Slug": "everything-fades-to-blue",
+    "Description": "Everything Fades To Blue is a mix of indie/emo and ambient music produced by Sleep Fish, a Pennsylvania-based producer that is also a student in statistics, data science, and machine learning. Sleepy Fish is one of the few Lo-fi artists who actually sing in its creations. Everything Fades To Blue is the 3rd episode of a story where a tidal wave destroys an island along with the home where Sleepy Fish used to live. Toppled into the sea, on its own for the first time, Sleepy Fish uses its glow to search for family, to guide others, and to find its way. The episode comes after \"My Room Becomes the Sea\" and \"Beneath Your Waves\". The undersea-themed animation has been made in collaboration with Tristan Gion and Bien à Vous Studio, a French studio based in Nantes.",
+    "Owner": "Sleepy Fish",
+    "Cards": [
+      "Everything Fades To Blue is a mix of indie/emo and ambient music produced by Sleep Fish, a Pennsylvania-based producer that is also a student in statistics, data science, and machine learning.",
+      "Sleepy Fish is one of the few Lo-fi artists who actually sing in its creations.",
+      "Everything Fades To Blue is the 3rd episode of a story where a tidal wave destroys an island along with the home where Sleepy Fish used to live.",
+      "Toppled into the sea, on its own for the first time, Sleepy Fish uses its glow to search for family, to guide others, and to find its way.",
+      "The episode comes after \"My Room Becomes the Sea\" and \"Beneath Your Waves\".",
+      "The undersea-themed animation has been made in collaboration with Tristan Gion and Bien à Vous Studio, a French studio based in Nantes."
+    ],
     "SocialMedia": [
-      { "URL": "https://youtu.be/uMaWlgkm6rk", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/user/aviencloud",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://aviencloud.com", "MediaSlug": "web" },
-      {
-        "URL": "https://www.instagram.com/aviencloud",
-        "MediaSlug": "instagram"
-      },
-      { "URL": "https://twitter.com/Aviencloud", "MediaSlug": "twitter" },
-      { "URL": "https://www.facebook.com/Aviencloud", "MediaSlug": "facebook" },
-      { "URL": "https://discord.me/aviencloud", "MediaSlug": "discord" }
+      { "URL": "https://chillhop.com/releases/sleepy-fish-everything-fades-to-blue", "MediaSlug": "web" },
+      { "URL": "https://youtu.be/PfgS405CdXk", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw", "MediaSlug": "spotify" },
+      { "URL": "https://www.instagram.com/sleepyfishmusic", "MediaSlug": "instagram" }
     ]
   },
   {
-    "Name": "ChilledCow - Sleepy girl",
-    "ID": "DWcJFNfaw9c",
-    "Slug": "chilledcow2",
-    "Description": "",
+    "Name": "Lofi Girl",
+    "ID": "jfKfPfyJRdk",
+    "Slug": "lofigirl",
+    "Description": "Lofi girl is a radio that broadcasts lo-fi hip hop songs created by a French fellow named Dimitri in 2017. The animation, made by Juan Pablo Machado, is modeled after Shizuku Tsukishima, a girl character from the Studio Ghibli film \"Whisper of the Heart\". Named Jade, the Lofi girl is shown studying in Lyon, a city from France where her designer Juan Pablo used to live. The view through the window depicts the buildings on the slopes of Croix-Rousse, where the bell tower of the Bon-Pasteur church can be spotted.",
+    "Owner": "Lofi Girl",
+    "Cards": [
+      "Lofi girl is a radio that broadcasts lo-fi hip hop songs created by a French fellow named Dimitri in 2017.",
+      "The animation, made by Juan Pablo Machado, is modeled after Shizuku Tsukishima, a girl character from the Studio Ghibli film \"Whisper of the Heart\".",
+      "Named Jade, the Lofi girl is shown studying in Lyon, a city from France where her designer Juan Pablo used to live.",
+      "The view through the window depicts the buildings on the slopes of Croix-Rousse, where the bell tower of the Bon-Pasteur church can be spotted."
+    ],
     "SocialMedia": [
-      { "URL": "https://youtu.be/DWcJFNfaw9c", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://chilledcow.com/password", "MediaSlug": "web" },
-      {
-        "URL": "https://www.instagram.com/chilledcow_yt",
-        "MediaSlug": "instagram"
-      },
-      {
-        "URL": "https://www.facebook.com/TheChilledCow",
-        "MediaSlug": "facebook"
-      },
-      { "URL": "https://twitter.com/chilledcow", "MediaSlug": "twitter" },
-      { "URL": "https://discord.com/invite/hUKvJnw", "MediaSlug": "discord" }
+      { "URL": "https://lofigirl.com", "MediaSlug": "web" },
+      { "URL": "https://youtu.be/jfKfPfyJRdk", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q", "MediaSlug": "spotify" },
+      { "URL": "https://discord.com/invite/lofigirl", "MediaSlug": "discord" },
+      { "URL": "https://www.reddit.com/r/LofiGirl", "MediaSlug": "reddit" },
+      { "URL": "https://www.instagram.com/lofigirl", "MediaSlug": "instagram" },
+      { "URL": "https://www.facebook.com/lofigirl", "MediaSlug": "facebook" },
+      { "URL": "https://twitter.com/lofigirl", "MediaSlug": "twitter" }
     ]
   },
   {
-    "Name": "ChilledCow - Study girl",
-    "ID": "5qap5aO4i9A",
-    "Slug": "chilledcow",
-    "Description": "",
+    "Name": "Lofi Sleepy Girl",
+    "ID": "xORCbIptqcc",
+    "Slug": "lofigirl-sleepy",
+    "Description": "Lofi girl is a radio that broadcasts lo-fi hip hop songs created by a French fellow named Dimitri in 2017. The animation, made by Juan Pablo Machado, is modeled after Shizuku Tsukishima, a girl character from the Studio Ghibli film \"Whisper of the Heart\". Named Jade, the Lofi girl is living in Lyon, a city from France where her designer Juan Pablo used to live.",
+    "Owner": "Lofi Girl",
+    "Cards": [
+      "Lofi girl is a radio that broadcasts lo-fi hip hop songs created by a French fellow named Dimitri in 2017.",
+      "The animation, made by Juan Pablo Machado, is modeled after Shizuku Tsukishima, a girl character from the Studio Ghibli film \"Whisper of the Heart\".",
+      "Named Jade, the Lofi girl is living in Lyon, a city from France where her designer Juan Pablo used to live."
+    ],
     "SocialMedia": [
-      { "URL": "https://youtu.be/5qap5aO4i9A", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://chilledcow.com/password", "MediaSlug": "web" },
-      {
-        "URL": "https://www.instagram.com/chilledcow_yt",
-        "MediaSlug": "instagram"
-      },
-      {
-        "URL": "https://www.facebook.com/TheChilledCow",
-        "MediaSlug": "facebook"
-      },
-      { "URL": "https://twitter.com/chilledcow", "MediaSlug": "twitter" },
-      { "URL": "https://discord.com/invite/hUKvJnw", "MediaSlug": "discord" }
+      { "URL": "https://lofigirl.com", "MediaSlug": "web" },
+      { "URL": "https://youtu.be/xORCbIptqcc", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM?si=sQXk5Y-GTUeB7OlCRKZ__Q", "MediaSlug": "spotify" },
+      { "URL": "https://discord.com/invite/lofigirl", "MediaSlug": "discord" },
+      { "URL": "https://www.reddit.com/r/LofiGirl", "MediaSlug": "reddit" },
+      { "URL": "https://www.instagram.com/lofigirl", "MediaSlug": "instagram" },
+      { "URL": "https://www.facebook.com/lofigirl", "MediaSlug": "facebook" },
+      { "URL": "https://twitter.com/lofigirl", "MediaSlug": "twitter" }
     ]
   },
   {
-    "Name": "Chillhop Music - Sleepy raccoon",
-    "ID": "7NOSDKb0HlU",
-    "Slug": "chillhopmusic2",
+    "Name": "Synthwave Boy",
+    "ID": "4xDzrJKXOOY",
+    "Slug": "synthwave-boy",
     "Description": "",
+    "Owner": "Lofi Girl",
+    "Cards": [],
     "SocialMedia": [
-      { "URL": "https://youtu.be/7NOSDKb0HlU", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/0CFuMybe6s77w6QQrJjW7d",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://chillhop.com", "MediaSlug": "web" },
-      {
-        "URL": "https://www.instagram.com/chillhopmusic",
-        "MediaSlug": "instagram"
-      },
-      { "URL": "https://discord.com/invite/chillhop", "MediaSlug": "discord" },
-      { "URL": "https://www.reddit.com/r/chillhop", "MediaSlug": "reddit" }
+      { "URL": "https://lofigirl.com", "MediaSlug": "web" },
+      { "URL": "https://youtu.be/4xDzrJKXOOY", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/playlist/1YIe34rcmLjCYpY9wJoM2p", "MediaSlug": "spotify" },
+      { "URL": "https://discord.com/invite/lofigirl", "MediaSlug": "discord" },
+      { "URL": "https://www.reddit.com/r/LofiGirl", "MediaSlug": "reddit" },
+      { "URL": "https://www.instagram.com/lofigirl", "MediaSlug": "instagram" },
+      { "URL": "https://www.facebook.com/lofigirl", "MediaSlug": "facebook" },
+      { "URL": "https://twitter.com/lofigirl", "MediaSlug": "twitter" }
     ]
   },
   {
-    "Name": "Chillhop Music - Walking raccoon",
+    "Name": "Chillhop Raccoon",
     "ID": "5yx6BWlEVcY",
-    "Slug": "chillhopmusic",
+    "Slug": "chillhop",
     "Description": "",
+    "Owner": "Chillhop Music",
+    "Cards": [],
     "SocialMedia": [
-      { "URL": "https://youtu.be/5yx6BWlEVcY", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/0CFuMybe6s77w6QQrJjW7d",
-        "MediaSlug": "spotify"
-      },
       { "URL": "https://chillhop.com", "MediaSlug": "web" },
-      {
-        "URL": "https://www.instagram.com/chillhopmusic",
-        "MediaSlug": "instagram"
-      },
+      { "URL": "https://youtu.be/5yx6BWlEVcY", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/playlist/0CFuMybe6s77w6QQrJjW7d?si=3co_7Q6XT0OJZwkBlqWoDQ", "MediaSlug": "spotify" },
       { "URL": "https://discord.com/invite/chillhop", "MediaSlug": "discord" },
-      { "URL": "https://www.reddit.com/r/chillhop", "MediaSlug": "reddit" }
+      { "URL": "https://www.reddit.com/r/chillhop", "MediaSlug": "reddit" },
+      { "URL": "https://www.instagram.com/chillhopmusic", "MediaSlug": "instagram" },
+      { "URL": "https://www.facebook.com/groups/1561371024098016", "MediaSlug": "facebook" }
     ]
   },
   {
-    "Name": "College Music - Lonely girl",
-    "ID": "bM0Iw7PPoU4",
-    "Slug": "collegemusic",
+    "Name": "Chillhop Relaxing Raccoon",
+    "ID": "7NOSDKb0HlU",
+    "Slug": "chillhop-relax",
     "Description": "",
+    "Owner": "Chillhop Music",
+    "Cards": [],
     "SocialMedia": [
-      { "URL": "https://youtu.be/bM0Iw7PPoU4", "MediaSlug": "youtube" },
-      {
-        "URL": "https://www.facebook.com/collegemusic",
-        "MediaSlug": "facebook"
-      },
-      {
-        "URL": "https://open.spotify.com/playlist/6llX35G0q026dwt6HuX5or",
-        "MediaSlug": "spotify"
-      },
-      {
-        "URL": "https://www.instagram.com/collegemusic",
-        "MediaSlug": "instagram"
-      },
-      { "URL": "https://twitter.com/collegemusicyt", "MediaSlug": "twitter" },
-      {
-        "URL": "https://discord.com/invite/collegemusic",
-        "MediaSlug": "discord"
-      }
+      { "URL": "https://chillhop.com", "MediaSlug": "web" },
+      { "URL": "https://youtu.be/7NOSDKb0HlU", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/playlist/0CFuMybe6s77w6QQrJjW7d?si=3co_7Q6XT0OJZwkBlqWoDQ", "MediaSlug": "spotify" },
+      { "URL": "https://discord.com/invite/chillhop", "MediaSlug": "discord" },
+      { "URL": "https://www.reddit.com/r/chillhop", "MediaSlug": "reddit" },
+      { "URL": "https://www.instagram.com/chillhopmusic", "MediaSlug": "instagram" },
+      { "URL": "https://www.facebook.com/groups/1561371024098016", "MediaSlug": "facebook" }
     ]
   },
   {
-    "Name": "Homework Radio - Rainy window",
-    "ID": "nMhua5LJRWg",
-    "Slug": "homeworkradio2",
+    "Name": "Steezy Coffee Shop",
+    "ID": "UI5NKkW8acM",
+    "Slug": "steezyasfuck-coffee-show",
     "Description": "",
+    "Owner": "STEEZYASFUCK",
+    "Cards": [],
     "SocialMedia": [
-      { "URL": "https://youtu.be/nMhua5LJRWg", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/user/qpjtj9amkbzwlmt6ora8qmoih",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://twitter.com/HomeworkRadio", "MediaSlug": "twitter" },
-      {
-        "URL": "https://www.instagram.com/homework_radio",
-        "MediaSlug": "instagram"
-      },
-      { "URL": "https://discord.com/invite/SmD2Pu2", "MediaSlug": "discord" }
+      { "URL": "https://www.stzzzy.com", "MediaSlug": "web" },
+      { "URL": "https://youtu.be/UI5NKkW8acM", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/playlist/2s9R059mmdc8kz6lrUqZZd", "MediaSlug": "spotify" },
+      { "URL": "https://www.instagram.com/stzzyasfvck/", "MediaSlug": "instagram" },
+      { "URL": "https://twitter.com/stzzyasfvck", "MediaSlug": "twitter" }
     ]
   },
   {
-    "Name": "Homework Radio - Roof girl",
-    "ID": "ZYMuB9y549s",
-    "Slug": "homeworkradio",
+    "Name": "Pop Culture Sunday",
+    "ID": "7kdWLuuLiVI",
+    "Slug": "closedonsunday-pop-culture",
     "Description": "",
+    "Owner": "Closed on Sunday",
+    "Cards": [],
     "SocialMedia": [
-      { "URL": "https://youtu.be/ZYMuB9y549s", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/user/qpjtj9amkbzwlmt6ora8qmoih",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://twitter.com/HomeworkRadio", "MediaSlug": "twitter" },
-      {
-        "URL": "https://www.instagram.com/homework_radio/",
-        "MediaSlug": "instagram"
-      },
-      { "URL": "https://discord.com/invite/SmD2Pu2", "MediaSlug": "discord" }
+      { "URL": "https://youtu.be/7kdWLuuLiVI", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3", "MediaSlug": "spotify" },
+      { "URL": "https://discord.com/invite/closedonsunday", "MediaSlug": "discord" },
+      { "URL": "https://www.instagram.com/closedonsundayy", "MediaSlug": "instagram" }
     ]
   },
   {
-    "Name": "InYourChill - Nerdy girl",
-    "ID": "B8tQ8RUbTW8",
-    "Slug": "inyourchill",
+    "Name": "Star Wars Sunday",
+    "ID": "kkko7QKvL1s",
+    "Slug": "closedonsunday-starwars",
     "Description": "",
+    "Owner": "Closed on Sunday",
+    "Cards": [],
     "SocialMedia": [
-      { "URL": "https://youtu.be/B8tQ8RUbTW8", "MediaSlug": "youtube" },
-      { "URL": "https://inyourchill.com", "MediaSlug": "web" },
-      {
-        "URL": "https://open.spotify.com/user/ersxxojg18hnzmir1jweb1oav",
-        "MediaSlug": "spotify"
-      },
-      {
-        "URL": "https://www.instagram.com/InYourChillMusic",
-        "MediaSlug": "instagram"
-      },
-      { "URL": "https://twitter.com/InYourChill", "MediaSlug": "twitter" },
-      { "URL": "https://discord.com/invite/nTreycA", "MediaSlug": "discord" }
+      { "URL": "https://youtu.be/kkko7QKvL1s", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3", "MediaSlug": "spotify" },
+      { "URL": "https://discord.com/invite/closedonsunday", "MediaSlug": "discord" },
+      { "URL": "https://www.instagram.com/closedonsundayy", "MediaSlug": "instagram" }
     ]
   },
   {
-    "Name": "KozyPop - 같이해요",
-    "ID": "F5v_VqxbQPI",
-    "Slug": "kozypop",
-    "Description": "",
-    "SocialMedia": [
-      { "URL": "https://youtu.be/F5v_VqxbQPI", "MediaSlug": "youtube" },
-      { "URL": "https://www.facebook.com/kozypop", "MediaSlug": "facebook" },
-      {
-        "URL": "https://open.spotify.com/playlist/7FF5lMMpCWJKHzbJk47Cnh?si=0GySMJBESb6Yc7Fj9JNgYA",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://www.instagram.com/kozypop", "MediaSlug": "instagram" },
-      { "URL": "https://kozypop.com", "MediaSlug": "web" }
-    ]
-  },
-  {
-    "Name": "Lofi Code Beats - Dev guy",
-    "ID": "bmVKaAV_7-A",
-    "Slug": "lofi-code-beats",
-    "Description": "",
-    "SocialMedia": [
-      { "URL": "https://youtu.be/bmVKaAV_7-A", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/34HMPdg2ywHWz0EmCE64yo?si=fpkW2O30T7mZKvv4rGrIdw",
-        "MediaSlug": "spotify"
-      }
-    ]
-  },
-  {
-    "Name": "Monstafluff Music - Spaceship girl",
-    "ID": "pH3xU1YcjaA",
-    "Slug": "monstafluffmusic",
-    "Description": "",
-    "SocialMedia": [
-      { "URL": "https://youtu.be/pH3xU1YcjaA", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/178jrNhRrUc8DZERi4Iu2A",
-        "MediaSlug": "spotify"
-      }
-    ]
-  },
-  {
-    "Name": "STEEZYASFUCK - Coffee shop radio",
-    "ID": "-5KAN9_CzSA",
-    "Slug": "steezyasfuck2",
-    "Description": "",
-    "SocialMedia": [
-      { "URL": "https://youtu.be/-5KAN9_CzSA", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/28gkj3su0EjS9tD20XTG9T",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://twitter.com/stzzyasfvck", "MediaSlug": "twitter" },
-      {
-        "URL": "https://www.instagram.com/stzzyasfvck",
-        "MediaSlug": "instagram"
-      },
-      { "URL": "https://www.stzzzy.com", "MediaSlug": "web" }
-    ]
-  },
-  {
-    "Name": "STEEZYASFUCK - Junky fluff",
-    "ID": "9_CcYN8MVO8",
-    "Slug": "steezyasfuck",
-    "Description": "",
-    "SocialMedia": [
-      { "URL": "https://youtu.be/9_CcYN8MVO8", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/28gkj3su0EjS9tD20XTG9T",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://twitter.com/stzzyasfvck", "MediaSlug": "twitter" },
-      {
-        "URL": "https://www.instagram.com/stzzyasfvck",
-        "MediaSlug": "instagram"
-      },
-      { "URL": "https://www.stzzzy.com", "MediaSlug": "web" }
-    ]
-  },
-  {
-    "Name": "Star Wars - Ahsoka Tano",
-    "ID": "oNfKzRP8-Q0",
-    "Slug": "starwars",
-    "Description": "",
-    "SocialMedia": [
-      { "URL": "https://youtu.be/oNfKzRP8-Q0", "MediaSlug": "youtube" },
-      {
-        "URL": "https://discord.com/invite/Kvq5VJSrgx",
-        "MediaSlug": "discord"
-      },
-      {
-        "URL": "https://www.instagram.com/closedonsundayy",
-        "MediaSlug": "instagram"
-      },
-      {
-        "URL": "https://open.spotify.com/playlist/34HMPdg2ywHWz0EmCE64yo?si=fpkW2O30T7mZKvv4rGrIdw",
-        "MediaSlug": "spotify"
-      }
-    ]
-  },
-  {
-    "Name": "The Jazz Hop Café",
-    "ID": "bDBS-V6zf68",
-    "Slug": "thejazzhopcafe",
-    "Description": "",
-    "SocialMedia": [
-      { "URL": "https://youtu.be/bDBS-V6zf68", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/user/thejazz",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://twitter.com/jazzhopcafe", "MediaSlug": "twitter" },
-      { "URL": "https://www.facebook.com/jazzhopcafe", "MediaSlug": "facebook" }
-    ]
-  },
-  {
-    "Name": "Tokyo LosT Tracks - サクラチル",
-    "ID": "WBfbkPTqUtU",
-    "Slug": "tokyolosttracks",
-    "Description": "",
-    "SocialMedia": [
-      { "URL": "https://youtu.be/WBfbkPTqUtU", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/37i9dQZF1DX87D1EaNZxW1",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://discord.com/invite/fHkhEgc", "MediaSlug": "discord" },
-      { "URL": "https://twitter.com/TTT_SakuraChill", "MediaSlug": "twitter" },
-      {
-        "URL": "https://www.facebook.com/TokyoLosTTracks",
-        "MediaSlug": "facebook"
-      },
-      {
-        "URL": "https://www.instagram.com/TokyoLosTTracks/",
-        "MediaSlug": "instagram"
-      }
-    ]
-  },
-  {
-    "Name": "the bootleg boy - Smoking girl",
-    "ID": "l7TxwBhtTUY",
+    "Name": "Bootleg Smoke",
+    "ID": "rPjez8z61rI",
     "Slug": "thebootlegboy",
     "Description": "",
+    "Owner": "the bootleg boy",
+    "Cards": [],
     "SocialMedia": [
-      { "URL": "https://youtu.be/l7TxwBhtTUY", "MediaSlug": "youtube" },
-      {
-        "URL": "https://open.spotify.com/playlist/71019EDcRamfMmOEEoTdEu?si=XePP-REWQDSuzJT6-SXwSQ",
-        "MediaSlug": "spotify"
-      },
-      { "URL": "https://twitter.com/thebootlegboy", "MediaSlug": "twitter" },
-      {
-        "URL": "https://www.instagram.com/thebootlegboy",
-        "MediaSlug": "instagram"
-      },
       { "URL": "https://www.thebootlegboy.com", "MediaSlug": "web" },
-      { "URL": "https://discord.com/invite/FZrUkey", "MediaSlug": "discord" }
+      { "URL": "https://youtu.be/rPjez8z61rI", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/playlist/71019EDcRamfMmOEEoTdEu?si=XePP-REWQDSuzJT6-SXwSQ", "MediaSlug": "spotify" },
+      { "URL": "https://discord.com/invite/FZrUkey", "MediaSlug": "discord" },
+      { "URL": "https://www.instagram.com/thebootlegboy", "MediaSlug": "instagram" },
+      { "URL": "https://twitter.com/thebootlegboy", "MediaSlug": "twitter" }
+    ]
+  },
+  {
+    "Name": "Dreamhop",
+    "ID": "D5bqo8lcny4",
+    "Slug": "dreamhop",
+    "Description": "",
+    "Owner": "Dreamhop Music",
+    "Cards": [],
+    "SocialMedia": [
+      { "URL": "https://dreamhopmusic.com", "MediaSlug": "web" },
+      { "URL": "https://youtu.be/D5bqo8lcny4", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/user/91jfqzlv0htrqrvvc60138qma", "MediaSlug": "spotify" },
+      { "URL": "https://discord.com/invite/FxF9kng", "MediaSlug": "discord" },
+      { "URL": "https://www.instagram.com/dreamhopp", "MediaSlug": "instagram" },
+      { "URL": "https://twitter.com/Dreamhopp", "MediaSlug": "twitter" }
+    ]
+  },
+  {
+    "Name": "Taiki",
+    "ID": "qH3fETPsqXU",
+    "Slug": "taiki",
+    "Description": "",
+    "Owner": "Chill with Taiki",
+    "Cards": [],
+    "SocialMedia": [
+      { "URL": "https://taiki.shop", "MediaSlug": "web" },
+      { "URL": "https://youtu.be/qH3fETPsqXU", "MediaSlug": "youtube" },
+      { "URL": "https://discord.com/invite/2qvd2ngQGP", "MediaSlug": "discord" },
+      { "URL": "https://twitter.com/chillwithtaiki", "MediaSlug": "twitter" },
+      { "URL": "https://www.facebook.com/chillwithtaiki", "MediaSlug": "facebook" },
+      { "URL": "https://www.instagram.com/chillwithtaiki", "MediaSlug": "instagram" }
+    ]
+  },
+  {
+    "Name": "House in the Woods",
+    "ID": "MKzeyoX_w4g",
+    "Slug": "house-in-the-woods",
+    "Description": "",
+    "Owner": "Lofi Zone",
+    "Cards": [],
+    "SocialMedia": [
+      { "URL": "https://youtu.be/MKzeyoX_w4g", "MediaSlug": "youtube" },
+      { "URL": "https://open.spotify.com/playlist/0V5IsHm0VJbmeffuLzgoc3?si=eac2c90bc18f4a97", "MediaSlug": "spotify" }
     ]
   }
 ]

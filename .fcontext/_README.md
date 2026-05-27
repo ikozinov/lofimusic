@@ -1,6 +1,6 @@
 # lofimusic
 
-**lofimusic** is a multi-platform desktop, web, and mobile app written in **Flutter (Dart)**. It is a direct port/clone of the original Go-app PWA by Maxence Charriere ([github.com/maxence-charriere/lofimusic](https://github.com/maxence-charriere/lofimusic)).
+**lofimusic** is a multi-platform desktop, web, and mobile app written in **Flutter (Dart)**. It is a direct port/clone of the Go-app PWA by agentcobra ([github.com/agentcobra/lofimusic](https://github.com/agentcobra/lofimusic)).
 
 The app provides a minimalist, beautiful environment for working, studying, and relaxing, featuring:
 - Streaming of famous YouTube Lo-Fi live radio channels.

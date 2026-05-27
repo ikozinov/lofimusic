@@ -17,6 +17,8 @@ class RadioStation {
   final String id;
   final String slug;
   final String description;
+  final String owner;
+  final List<String> cards;
   final List<SocialMedia> socialMedia;
 
   RadioStation({
@@ -24,6 +26,8 @@ class RadioStation {
     required this.id,
     required this.slug,
     required this.description,
+    required this.owner,
+    required this.cards,
     required this.socialMedia,
   });
 
@@ -32,11 +36,16 @@ class RadioStation {
     List<SocialMedia> socialMedia =
         socialMediaList.map((i) => SocialMedia.fromJson(i)).toList();
 
+    var cardsList = json['Cards'] as List? ?? [];
+    List<String> cards = cardsList.map((i) => i.toString()).toList();
+
     return RadioStation(
       name: json['Name'],
       id: json['ID'],
       slug: json['Slug'],
       description: json['Description'] ?? '',
+      owner: json['Owner'] ?? '',
+      cards: cards,
       socialMedia: socialMedia,
     );
   }
